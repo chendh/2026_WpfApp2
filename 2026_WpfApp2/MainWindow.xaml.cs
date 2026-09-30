@@ -20,15 +20,5 @@ namespace _2026_WpfApp2
         {
             InitializeComponent();
         }
-
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
-
-        private void OrderButton_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
