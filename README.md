@@ -23,3 +23,9 @@ var targetTextBox = sender as TextBox;
 var targetStackPanel = targetTextBox.Parent as StackPanel;
 var targetNameLabel = targetStackPanel.Children[0] as Label;
 ```
+
+### 將字串轉換成整數
+```csharp
+int.TryParse()
+Convert.ToInt32()
+```
